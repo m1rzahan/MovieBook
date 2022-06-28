@@ -73,9 +73,8 @@ public class RequestManager {
         @Headers({
                "Accept: application/json",
                 "X-RapidAPI-Host: movie-database-alternative.p.rapidapi.com",
-                "X-RapidAPI-Key: 15af363fa2msh0e151ec70a70461p13dae0jsn9385eb957b07"
-                /*"Accept: application/json",
-                "authorization: apikey 0xxnyVWOaCho4nPZPF4IPN:0wUM14wtfnCwwzNMss3C3k"*/
+                "X-RapidAPI-Key: yourAPIkey"
+
 
         })
         @GET("https://movie-database-alternative.p.rapidapi.com/")
@@ -89,9 +88,8 @@ public class RequestManager {
         @Headers({
                 "Accept: application/json",
                 "X-RapidAPI-Host: movie-database-alternative.p.rapidapi.com",
-                "X-RapidAPI-Key: 15af363fa2msh0e151ec70a70461p13dae0jsn9385eb957b07"
-                /*"Accept: application/json",
-                "authorization: apikey 0xxnyVWOaCho4nPZPF4IPN:0wUM14wtfnCwwzNMss3C3k"*/
+                "X-RapidAPI-Key: yourAPIkey"
+
 
         })
         @GET("https://movie-database-alternative.p.rapidapi.com/")
